@@ -1,0 +1,9 @@
+[
+  "tests/test_class.py::TestClass::()::test_one",
+  "tests/test_class.py::TestClass::()::test_two",
+  "tests/test_even.py::test_even_numerical",
+  "tests/test_palindrome.py::test_palindrome_string",
+  "tests/test_palindrome.py::test_palindrome_int",
+  "tests/test_sample.py::test_answer",
+  "tests/test_sysexit.py::test_mytest"
+]
